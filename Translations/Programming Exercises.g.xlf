@@ -1,0 +1,524 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Programming Exercises">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 335022948 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EFCExample</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCExample - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 335022948 - Field 547984330 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FieldOne</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCExample - Field FieldOne - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 335022948 - Field 127208266 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FieldTwo</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCExample - Field FieldTwo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3851765737 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>My Dev Customer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCMyDevCustomer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3851765737 - Field 1609384297 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>City</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCMyDevCustomer - Field EFCCity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3851765737 - Field 116241849 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCMyDevCustomer - Field EFCName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3851765737 - Field 2123312025 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCMyDevCustomer - Field EFCNo. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 822826392 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EFCTriggerLog</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCTriggerLog - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 822826392 - Field 3241823685 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EFCEntryNo.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCTriggerLog - Field EFCEntryNo. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 822826392 - Field 4163725894 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EFCObjectName</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCTriggerLog - Field EFCObjectName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 822826392 - Field 604375634 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Timestamp</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCTriggerLog - Field EFCTimestamp - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 822826392 - Field 259254825 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EFCTriggerName</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EFCTriggerLog - Field EFCTriggerName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2125943123 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Armstrong Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCArmstrongCard - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 800893296 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EFC Data Manipulation Examples</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCDataManipulationExamples - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 800893296 - Method 2805693380 - NamedType 3317594321" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item not found</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCDataManipulationExamples - Method GetItem1900S - NamedType ItemNoFoundErr</note>
+        </trans-unit>
+        <trans-unit id="Page 800893296 - Action 2051667313 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Find Some Records</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCDataManipulationExamples - Action FindSomeRecords - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 800893296 - Action 2051667313 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Find Some Records</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCDataManipulationExamples - Action FindSomeRecords - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 800893296 - Action 480197445 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Get customers from City</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCDataManipulationExamples - Action GetFromAtlanta - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 800893296 - Action 480197445 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Get customers from City</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCDataManipulationExamples - Action GetFromAtlanta - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 800893296 - Action 3960439604 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Get item table product</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCDataManipulationExamples - Action GetItemProduct - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 800893296 - Action 3960439604 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Get item table product</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCDataManipulationExamples - Action GetItemProduct - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 800893296 - Action 36460178 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Get customers not from City</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCDataManipulationExamples - Action GetNotFromAtlanta - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 800893296 - Action 36460178 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Get customers not from City</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCDataManipulationExamples - Action GetNotFromAtlanta - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 800893296 - Action 2320117864 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Loop over all vendors</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCDataManipulationExamples - Action LoopOverAllVendors - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 800893296 - Action 2320117864 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Loop over all vendors</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCDataManipulationExamples - Action LoopOverAllVendors - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3164220025 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data Types Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCDataTypesCard - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2696761986 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EFC Expression Calculator</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCExpressionCalculator - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2696761986 - Control 3567459362 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Input</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCExpressionCalculator - Control Input - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2696761986 - Control 3022765643 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the First field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCExpressionCalculator - Control FirstValue - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2696761986 - Control 3022765643 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>First</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCExpressionCalculator - Control FirstValue - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2696761986 - Control 3266942669 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Second field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCExpressionCalculator - Control SecondValue - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2696761986 - Control 3266942669 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Second</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCExpressionCalculator - Control SecondValue - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2696761986 - Control 3961040049 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Output</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCExpressionCalculator - Control Output - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2696761986 - Control 3614769795 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Result field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCExpressionCalculator - Control EFCResult - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2696761986 - Control 3614769795 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Result</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCExpressionCalculator - Control EFCResult - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2696761986 - Control 864726234 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Is bigger field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCExpressionCalculator - Control IsBigger - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2696761986 - Control 864726234 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Is bigger</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCExpressionCalculator - Control IsBigger - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2696761986 - Control 3443233574 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Is smaller field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCExpressionCalculator - Control IsSmaller - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2696761986 - Control 3443233574 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Is smaller</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCExpressionCalculator - Control IsSmaller - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2696761986 - Action 3772304613 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the DIV action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCExpressionCalculator - Action DIV - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2696761986 - Action 3772304613 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DIV</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCExpressionCalculator - Action DIV - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2696761986 - Action 2279224919 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the &gt; action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCExpressionCalculator - Action IsBiggerThan - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2696761986 - Action 2279224919 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&gt;</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCExpressionCalculator - Action IsBiggerThan - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2696761986 - Action 1501853539 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the &lt; action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCExpressionCalculator - Action IsSmallerThan - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2696761986 - Action 1501853539 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&lt;</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCExpressionCalculator - Action IsSmallerThan - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2696761986 - Action 1796663826 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the MOD action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCExpressionCalculator - Action MOD - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2696761986 - Action 1796663826 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MOD</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCExpressionCalculator - Action MOD - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2696761986 - Action 3670794248 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the * action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCExpressionCalculator - Action Multiply - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2696761986 - Action 3670794248 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>*</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCExpressionCalculator - Action Multiply - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2696761986 - Action 1630199830 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the + action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCExpressionCalculator - Action Plus - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2696761986 - Action 1630199830 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>+</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCExpressionCalculator - Action Plus - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2696761986 - Action 1123480694 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the / action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCExpressionCalculator - Action Split - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2696761986 - Action 1123480694 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>/</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCExpressionCalculator - Action Split - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2696761986 - Action 1272851161 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the - action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCExpressionCalculator - Action Substract - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2696761986 - Action 1272851161 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>-</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCExpressionCalculator - Action Substract - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3136364143 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expressions Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCExpressionsCard - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3136364143 - Control 3567459362 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Input</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCExpressionsCard - Control Input - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3136364143 - Control 151815974 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enter a value for Value1.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCExpressionsCard - Control Value1 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3136364143 - Control 151815974 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCExpressionsCard - Control Value1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3136364143 - Control 2533693419 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enter a value for Value2.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCExpressionsCard - Control Value2 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3136364143 - Control 2533693419 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCExpressionsCard - Control Value2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3136364143 - Control 3961040049 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Output</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCExpressionsCard - Control Output - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3136364143 - Control 472338107 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The result of the operation.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCExpressionsCard - Control Result - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3136364143 - Control 472338107 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Result</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCExpressionsCard - Control Result - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3136364143 - Action 1561766673 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Click to calculate the result.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCExpressionsCard - Action Execute - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3136364143 - Action 1561766673 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Execute</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCExpressionsCard - Action Execute - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 147517801 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EFC Get The Numbers</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCGetTheNumbers - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 147517801 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Input</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCGetTheNumbers - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 147517801 - Control 1635402586 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Input field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCGetTheNumbers - Control EFCInput - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 147517801 - Control 1635402586 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Input</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCGetTheNumbers - Control EFCInput - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 147517801 - Action 1561766673 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the Execute action</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCGetTheNumbers - Action Execute - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 147517801 - Action 1561766673 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Execute</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCGetTheNumbers - Action Execute - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3851765737 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EFCMyDevCustomer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCMyDevCustomer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3851765737 - Control 714791889 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the City field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCMyDevCustomer - Control City - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3851765737 - Control 116241849 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Name field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCMyDevCustomer - Control EFCName - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3851765737 - Control 2123312025 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCMyDevCustomer - Control EFCNo. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3851765737 - Control 1334197106 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>City</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCMyDevCustomer - Control InputTxt - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3851765737 - Control 1334197106 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>City</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCMyDevCustomer - Control InputTxt - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3851765737 - Action 2792730215 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Clear table My Dev Customers</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCMyDevCustomer - Action ClearMyDevCustomers - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3851765737 - Action 2792730215 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Clear table My Dev Customers</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCMyDevCustomer - Action ClearMyDevCustomers - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3851765737 - Action 2214200521 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Copy from customers</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCMyDevCustomer - Action CopyFromCustomer - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3851765737 - Action 2214200521 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Copy from customers</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCMyDevCustomer - Action CopyFromCustomer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3851765737 - Action 2214200521 - Method 1377591017 - NamedType 3718448358" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set the correct filter</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCMyDevCustomer - Action CopyFromCustomer - Method OnAction - NamedType CityFilterErr</note>
+        </trans-unit>
+        <trans-unit id="Page 2207291238 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Statements Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCStatementsCard - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2207291238 - Control 3567459362 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Input</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCStatementsCard - Control Input - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2207291238 - Control 1623047485 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select the Difficulty.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCStatementsCard - Control Difficulty - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2207291238 - Control 1623047485 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Difficulty</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCStatementsCard - Control Difficulty - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2207291238 - Control 3961040049 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Output</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCStatementsCard - Control Output - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2207291238 - Control 1789400218 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Level.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCStatementsCard - Control Level - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2207291238 - Control 1789400218 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Level</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCStatementsCard - Control Level - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2207291238 - Control 494089240 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Suggestion.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCStatementsCard - Control Suggestion - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2207291238 - Control 494089240 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Suggestion</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCStatementsCard - Control Suggestion - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3009009410 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TriggerLog List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCTriggerLogList - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3009009410 - Control 3241823685 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Entry No. field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCTriggerLogList - Control EFCEntryNo. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3009009410 - Control 4163725894 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Object Name field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCTriggerLogList - Control EFCObjectName - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3009009410 - Control 604375634 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Timestamp field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCTriggerLogList - Control EFCTimestamp - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3009009410 - Control 259254825 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Trigger Name field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCTriggerLogList - Control EFCTriggerName - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3009009410 - Action 2210124625 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Clear log entries</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCTriggerLogList - Action ClearLogEntries - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3009009410 - Action 2210124625 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Clear log entries</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EFCTriggerLogList - Action ClearLogEntries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1472931266 - Action 2300790711 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>Run Codeunit VariablesAndDatatypes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension EFCCustomerList - Action EFCVariablesAndDatatypes - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1472931266 - Action 2300790711 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>Run Codeunit VariablesAndDatatypes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension EFCCustomerList - Action EFCVariablesAndDatatypes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1737371145 - Control 4183280899 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4178721393">
+          <source>Availability</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension EFCItemList - Control EFCAvailability - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1737371145 - Control 4183280899 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4178721393">
+          <source>EFCAvailability</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension EFCItemList - Control EFCAvailability - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
